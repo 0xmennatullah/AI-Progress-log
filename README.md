@@ -30,6 +30,7 @@ It links to my projects, courses, and personal notes along the way.
    - implements some NLP l6.
    - very good explained labs.
 
+3. [Transformers In Arabicv yt](https://youtube.com/playlist?list=PLQkyODvJ8ywskCTWkXnwa4Gz4B-sVWY9h&si=DyxQIhfpfIFkHQk2) ![status](https://img.shields.io/badge/Status-Ongoing-blue)
 ---
 
 ## Computer Vision  
@@ -53,6 +54,7 @@ It links to my projects, courses, and personal notes along the way.
 - **Aug 2025** → ML implementations
 - **Sep 2025** → Completed ITI ML Intro 
 - **Sep 2025** → Hands on ML Book
----
+
  
+
 
