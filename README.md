@@ -30,7 +30,12 @@ It links to my projects, courses, and personal notes along the way.
    - implements some NLP l6.
    - very good explained labs.
 
-3. [Transformers In Arabicv yt](https://youtube.com/playlist?list=PLQkyODvJ8ywskCTWkXnwa4Gz4B-sVWY9h&si=DyxQIhfpfIFkHQk2) ![status](https://img.shields.io/badge/Status-Ongoing-blue)
+3. [DL Implementations]()![status](https://img.shields.io/badge/Status-Ongoing-blue) 
+   
+4. [Dive in Deeplearning Book](https://d2l.ai/)![status](https://img.shields.io/badge/Status-Ongoing-blue)
+
+5. [Andrew NG | MIT 2026 DL](https://www.youtube.com/watch?si=ZsU44qY66KgbeP3o&v=_NLHFoVNlbg&feature=youtu.be) ![status](https://img.shields.io/badge/Status-Ongoing-blue)
+
 ---
 
 ## Computer Vision  
